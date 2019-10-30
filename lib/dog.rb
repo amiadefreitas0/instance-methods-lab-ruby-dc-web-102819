@@ -9,5 +9,5 @@ def sit
   puts "The Dog is sitting"
 end
 
-lassie.new
+lassie = Dog.new
 lassie
