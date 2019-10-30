@@ -10,4 +10,5 @@ def sit
 end
 
 lassie = Dog.new
+lassie
 lassie.bark
