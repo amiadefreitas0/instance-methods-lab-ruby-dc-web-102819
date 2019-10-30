@@ -12,4 +12,4 @@ end
 
 Amia = Person.new
 
-amia.walk
+Amia.walk
